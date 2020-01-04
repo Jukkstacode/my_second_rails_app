@@ -32,3 +32,5 @@
 
 # Ignore pesky DS_Store files in macs
 .DS_Store
+
+#Adding a comment so git thinks it's changed
